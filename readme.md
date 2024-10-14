@@ -2,19 +2,19 @@
 
 ## Contents
 
-- 1. 🐦 Poody's Arbitrage Bot for Solana 🚀
+- 🐦 Poody's Arbitrage Bot for Solana 🚀
   - [1.1. Automate Your Gains with Poody’s Arbitrage BOT](#11-automate-your-gains-with-poodys-arbitrage-bot)
   - [1.2. Key Features and Benefits](#12-key-features-and-benefits)
   - [1.3. Advanced Technology for Maximum Gains](#13-advanced-technology-for-maximum-gains)
   - [1.4. Why Choose Poody’s Arbitrage Bot?](#14-why-choose-poodys-arbitrage-bot)
   - [1.5. How to Run the Bot](#15-how-to-run-the-bot)
-- 2. 🐦 Poody's Volume Bot for Solana 🚀
+- 🐦 Poody's Volume Bot for Solana 🚀
   - [2.1. Maximize Your Token's Visibility with Our Premier Volume Boosting BOT](#21-maximize-your-tokens-visibility-with-our-premier-volume-boosting-bot)
   - [2.2. Key Features and Benefits](#22-key-features-and-benefits)
   - [2.3. Advanced Technology for Authentic Engagement](#23-advanced-technology-for-authentic-engagement)
   - [2.4. Why Choose Poody's Volume Bot?](#24-why-choose-poodys-volume-bot)
   - [2.5. How to Run the Bot](#25-how-to-run-the-bot)
-- 3. 🐦 Poody's Market Maker Bot for Solana 🚀
+- 🐦 Poody's Market Maker Bot for Solana 🚀
   - [3.1. Automate Your Solana Trades with Poody’s Market Maker BOT!](#31-automate-your-solana-trades-with-poodys-market-maker-bot)
   - [3.2. Key Features and Benefits](#32-key-features-and-benefits)
   - [3.3. Advanced Technology for Smarter Trading](#33-advanced-technology-for-smarter-trading)
