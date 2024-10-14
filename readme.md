@@ -1,26 +1,47 @@
 # Poody's Bots for Solana
 
-## 🐦 Poody's Arbitrage Bot for Solana 🚀
+## Contents
 
-### Automate Your Gains with Poody’s Arbitrage BOT
+- [1. 🐦 Poody's Arbitrage Bot for Solana 🚀](#1-poodys-arbitrage-bot-for-solana-)
+  - [1.1. Automate Your Gains with Poody’s Arbitrage BOT](#11-automate-your-gains-with-poodys-arbitrage-bot)
+  - [1.2. Key Features and Benefits](#12-key-features-and-benefits)
+  - [1.3. Advanced Technology for Maximum Gains](#13-advanced-technology-for-maximum-gains)
+  - [1.4. Why Choose Poody’s Arbitrage Bot?](#14-why-choose-poodys-arbitrage-bot)
+  - [1.5. How to Run the Bot](#15-how-to-run-the-bot)
+- [2. 🐦 Poody's Volume Bot for Solana 🚀](#2-poodys-volume-bot-for-solana-)
+  - [2.1. Maximize Your Token's Visibility with Our Premier Volume Boosting BOT](#21-maximize-your-tokens-visibility-with-our-premier-volume-boosting-bot)
+  - [2.2. Key Features and Benefits](#22-key-features-and-benefits)
+  - [2.3. Advanced Technology for Authentic Engagement](#23-advanced-technology-for-authentic-engagement)
+  - [2.4. Why Choose Poody's Volume Bot?](#24-why-choose-poodys-volume-bot)
+  - [2.5. How to Run the Bot](#25-how-to-run-the-bot)
+- [3. 🐦 Poody's Market Maker Bot for Solana 🚀](#3-poodys-market-maker-bot-for-solana-)
+  - [3.1. Automate Your Solana Trades with Poody’s Market Maker BOT!](#31-automate-your-solana-trades-with-poodys-market-maker-bot)
+  - [3.2. Key Features and Benefits](#32-key-features-and-benefits)
+  - [3.3. Advanced Technology for Smarter Trading](#33-advanced-technology-for-smarter-trading)
+  - [3.4. Why Choose Poody’s Market Maker Bot?](#34-why-choose-poodys-market-maker-bot)
+  - [3.5 How to Run the Bot](#35-how-to-run-the-bot)
+
+## 1. 🐦 Poody's Arbitrage Bot for Solana 🚀
+
+### 1.1. Automate Your Gains with Poody’s Arbitrage BOT
 
 Discover the power of our arbitrage bot, designed to automate your trades and capitalize on price differences between markets. Whether you're a seasoned trader or new to the game, our bot helps you make money effortlessly, even while you sleep!
 
-### Key Features and Benefits:
+### 1.2. Key Features and Benefits:
 
 - **Automated Profit:** Our bot scans different Solana liquidity pools for price differences in real time, then automatically buys low and sells high, capturing arbitrage opportunities instantly.
 - **Risk-Free Entry:** The bot is **completely FREE to download and use**, with no transaction fees applied. Poody benefits as the bot reserves part of the profits to $Poody supply, making it a win-win for everyone.
 - **Maximize Efficiency:** The bot operates 24/7, ensuring that you never miss a profitable opportunity. Set it up and let it do the work for you while you sit back and enjoy the returns.
 - **Simple Setup:** The bot creates a wallet address for you and is designed to handle all the trading parameters for you so you could start running the bot with just a few clicks and never lose!
 
-### Advanced Technology for Maximum Gains:
+### 1.3. Advanced Technology for Maximum Gains:
 
 - **Real-Time Price Scanning:** Our bot scans all available Solana markets multiple times per second to find the best arbitrage opportunities, ensuring you catch profitable trades.
 - **Shortlist Mechanism:** The bot captures successful trades multiple times for even higher efficiency.
 - **Dynamic Fee Calculation:** The bot adapts its fee strategy on the fly, maximizing your chances of completing successful trades.
 - **Runs on Multiple Devices:** Available for **Windows**, **MacOS**, and **Linux**, you can run Poody’s arbitrage bot on any system of your choice for a smooth trading experience.
 
-### Why Choose Poody’s Arbitrage Bot?
+### 1.4. Why Choose Poody’s Arbitrage Bot?
 
 At Poody, we believe in providing powerful, user-friendly tools that everyone can use to enhance their crypto experience.
 
@@ -28,7 +49,7 @@ At Poody, we believe in providing powerful, user-friendly tools that everyone ca
 - **Win-Win Model:** The more you use the bot, the more it benefits both you and the entire Poody community by increasing $Poody's market activity and value.
 - **Hassle-Free Operation:** All you need is to download, run the bot and pick a location of the server that is closest to your network. The rest is fully automated, requiring no interaction from you.
 
-### How to Run the Bot
+### 1.5. How to Run the Bot
 
 Getting started with 🐦 Poody's Arbitrage Bot 🚀 is straightforward. Just follow these simple steps and start capturing arbitrage profits today!
 
@@ -59,26 +80,26 @@ When the bot is operational, it should look like below:
 
 That’s it! You’re now leveraging the power of our arbitrage bot to capture profits while you relax!
 
-## 🐦 Poody's Volume Bot for Solana 🚀
+## 2. 🐦 Poody's Volume Bot for Solana 🚀
 
-### Maximize Your Token's Visibility with Our Premier Volume Boosting BOT
+### 2.1. Maximize Your Token's Visibility with Our Premier Volume Boosting BOT
 
 Unlock the potential of your Solana token by amplifying its trading volume with our cutting-edge volume bot. This full-service solution is designed to enhance your token's market presence, making it more visible and increasing its likelihood of trending on top analytical websites such as Dextools, Dexscreener, Birdeye, and more.
 
-### Key Features and Benefits:
+### 2.2. Key Features and Benefits:
 
 - **Boost Your Token’s Profile:** Our bot allows you to significantly increase the trading volume of any Solana token listed on Jupiter (verified or not - doesn't matter!), elevating its visibility and status within the market.
 - **Trend on Major Platforms:** Higher trading volumes can lead to your token being featured as a trending asset on various crypto analytics platforms, which attracts more attention from investors and traders.
 - **Fully Managed Service:** Enjoy a hassle-free experience with our bot. No need to worry about technical expertise, just run the .exe files!
 - **Low Fees:** You don't need to pay enormous amounts to buy the code from us - it is actually FREE! The bot only transfers out 0.08% of each landed transaction.
 
-### Advanced Technology for Authentic Engagement:
+### 2.3. Advanced Technology for Authentic Engagement:
 
 - **Dynamic Trading with Multiple Wallets:** Our system utilizes multiple wallets that engage in buying activities to mimic organic market behavior, enhancing the authenticity of the trade volumes. You can provide your own number of buyer wallets in the setup process.
 - **Natural Trading Patterns:** We aim to make trading activities appear seamless and natural, avoiding any indications of bot involvement to maintain credibility and market integrity.
 - **Powered by Jito:** To ensure stability and reliability, our service integrates Jito technology, guaranteeing a smoother and more consistent trading performance.
 
-### Why Choose Us?
+### 2.4. Why Choose Poody's Volume Bot?
 
 At Poody's, we believe in making tools accessible and affordable for everyone.
 
@@ -88,7 +109,7 @@ At Poody's, we believe in making tools accessible and affordable for everyone.
 
 Download our bot today and see the difference for yourself!
 
-### How to Run the Bot
+### 2.5. How to Run the Bot
 
 Getting started with 🐦 Poody's Volume Service 🚀 is straightforward. Follow these simple steps to activate your bot and begin boosting your token's volume today!
 
@@ -119,13 +140,13 @@ After funding, execute `run_bot` executable to start the bot. The bot will begin
 
 Now, sit back and watch as your token’s trading volume starts to grow. You are now leveraging our advanced volume boosting technology!
 
-## 🐦 Poody's Market Maker Bot for Solana 🚀
+## 3. 🐦 Poody's Market Maker Bot for Solana 🚀
 
-### Automate Your Solana Trades with Poody’s Market Maker!
+### 3.1. Automate Your Solana Trades with Poody’s Market Maker BOT!
 
 Take control of your trading with Poody’s Market Maker Bot, designed to automate your trading strategy by buying low and selling high. Whether you’re looking to capitalize on market volatility or help market-making your own token, this bot does the hard work for you!
 
-### Key Features and Benefits:
+### 3.2. Key Features and Benefits:
 
 - **Automatic Buying & Selling:** The bot scans the market, automatically buying tokens when prices dip and selling them into pumps. This helps you maximize gains without having to monitor the market constantly.
 - **Configurable Settings:** You can choose your own parameters - set your thresholds for buying low and selling high, and the bot will handle the execution. Don;t know where to start? We provide the defaults!
@@ -133,13 +154,13 @@ Take control of your trading with Poody’s Market Maker Bot, designed to automa
 - **Works with any major Solana LP Provider:** You can manage your tokens and run the bot with no major restrictions, we support all relevant liquidity providers including pump.fun and Moonshot!
 - **Low Fees:** You don't need to pay enormous amounts to buy the code from us - it is actually FREE! The bot only transfers out 0.08% of each landed transaction.
 
-### Advanced Technology for Smarter Trading:
+### 3.3. Advanced Technology for Smarter Trading:
 
 - **Market Scanning:** The bot monitors price fluctuations at specified intervals (e.g., every 5 minutes) to identify opportunities to buy low and sell high.
 - **Threshold-Based Trading:** You set the price thresholds. When the market hits those points, the bot automatically buys when the price dips and sells when it pumps - allowing you to maximize profits.
 - **Seamless Trades:** The bot works with needing manual intervention, it's all on autopilot!
 
-### Why Choose Poody’s Market Maker Bot?
+### 3.4. Why Choose Poody’s Market Maker Bot?
 
 At Poody, we believe in making trading easier and more efficient for everyone.
 
@@ -147,7 +168,7 @@ At Poody, we believe in making trading easier and more efficient for everyone.
 - **Hands-Off Profit Maximization:** The bot keeps an eye on the market for you, ensuring you don’t miss out on dips and pumps - even when you’re away from the screen.
 - **Quick Setup:** With just a few configuration settings, anyone can set up the bot in no time.
 
-### How to Run the Bot
+### 3.5. How to Run the Bot
 
 Getting started with 🐦 Poody’s Market Maker Bot 🚀 is straightforward. Follow these steps to configure the bot and start automating your trades today!
 
