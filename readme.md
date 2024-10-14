@@ -1,4 +1,4 @@
-# Solana Bots by poody.space
+# Solana Bots by Poody
 
 ## 🐦 Arbitrage Bot for Solana 🚀
 
